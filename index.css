@@ -1,0 +1,38 @@
+*{
+    margin: 0 0;
+    padding: 0 0;
+    box-sizing: border-box;
+}
+
+.ex1, .ex2, .ex3, .ex4, .ex5{
+    width: 60%;
+    margin: 30px auto;
+    box-shadow: 2px 5px #999;
+    border: 1px solid #ddd;
+
+}
+
+.header{
+margin: 20px auto;
+display: block;
+text-align: center;
+}
+
+.inputs{
+    margin: 10px auto;
+    display: block;
+    width: 70%;
+}
+
+button{
+    text-align: center;
+    margin: 10px auto;
+    width: fit-content;
+    display: block;
+}
+
+.results{
+    text-align: center;
+    margin-bottom: 20px;
+}
+
